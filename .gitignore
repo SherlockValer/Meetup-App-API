@@ -1,0 +1,7 @@
+node_modules
+
+.env
+
+events.json
+seedData.js
+temp.json
